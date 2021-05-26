@@ -1,2 +1,2 @@
-# teachtome
-The teacher's tome of notes for the classroom
+# tome
+a reference tome for programming algorithms, idioms, and opinions!
