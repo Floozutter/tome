@@ -36,7 +36,7 @@ tuple(map(str, b))
 attempt 3: list[NoReturn]
 - NoReturn is subtype of all, but not the other way around (bottom type)
 - can't hold anything but allows anything!
-- string in the right way; exactly what we want! >:3c
+- strict in the right way; exactly what we want! >:3c
 """
 c: list[NoReturn] = []
 #c.append(object())  # type error!
