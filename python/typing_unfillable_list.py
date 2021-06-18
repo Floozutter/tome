@@ -1,5 +1,5 @@
 """
-the journey to type an unfillable list!
+the journey of typing an unfillable list!
 """
 
 from typing import Any, NoReturn
